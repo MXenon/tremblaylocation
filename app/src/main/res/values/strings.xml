@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">JobXtra</string>
+    <string name="trouver_un_logement"> Trouver un logement </string>
+    <string name="je_suis_un_proprio">Je suis proprietaire </string>
+    <string name="start_location"> Demarrer </string>
+    <string name="liste_location"> Liste </string>
+    <string name="Details_location"> Details </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Enom">Votre nom ici</string>
+    <string name="Eprenom">Votre Prenom ici</string>
+    <string name="NbrePersonnes">Nbre de personnes</string>
+    <string name="deadLine">Date de fin</string>
+    <string name="startline">Date de debut</string>
+    <string name="reserver">Demarrer la reservation</string>
+
+    <string name="title"> Tremblay Location </string>
+    <string name="option1"> Chambre Simple </string>
+    <string name="option2"> Chambre Luxueuse Princesse </string>
+    <string name="option3"> Chambre Luxueuse Royale </string>
+
+
+
+
+
+
+
+</resources>
